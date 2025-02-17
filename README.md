@@ -6,11 +6,11 @@ Atualmente sou um profissonal da área de infraestrutura de redes de computadore
 
 Como desde 1991 já trabalho na área da Tecnologia da Informação, isto me permitu também adquirir outras experiências como desenvolveor de software de ERP, utilizando liguangens de programação estruturadas como Basic, d´Base III Plus, Clipper (década de 90) e ainda MS Access, designer em CAD e ser instrutor em cursos de TI. Também atuei como professor de tecnologia da informação no ensino fundamental técnico e no ensino superior ministrando as matérias de: arquitetura de computadores, informática, sistemas operacionais, sistemas operacinais de rede e banco de dados estruturado.
 
-- <em>Bacharel em Sistemas de Informação</em>
+- _Bacharel em Sistemas de Informação_
 
-- <em>Especialista Lato Sensu em Segurança da Informação</em>
+- _Especialista Lato Sensu em Segurança da Informação_
 
-- <em>Profissional Certificado Microsoft</em>
+- _Profissional Certificado Microsoft_
 
 ## Habilidades
 
@@ -62,14 +62,12 @@ Como desde 1991 já trabalho na área da Tecnologia da Informação, isto me per
 
 
 ## Referência
-
- - <em>[StartUp - Gestão em TI](https://www.startup.inf.br/site)</em>
+ - _[StartUp - Gestão em TI](https://www.startup.inf.br/site)_
  
 
 
 ## Licença
-
- - <em>[MIT](https://choosealicense.com/licenses/mit/)</em>
+ - _[MIT](https://choosealicense.com/licenses/mit/)_
 
 
 
